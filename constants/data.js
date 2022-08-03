@@ -1,117 +1,126 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
-  avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  githubUsername: "haednodik",
+  name: "Chheany Mok",
+  designation: "Full-Stack Web Developer",
+  avatarUrl: "#",
+  email: "haednodik@gmail.com",
+  phone: "502.297.1796",
+  address: "Louisville, KY",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Coming Soon",
+      link: "#",
+      imgUrl: "#",
     },
-    {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
-    },
-    {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
-    },
-    {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+,
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that impact millions of lives",
+      "I'm a software developer that loves building products and web applications that I hope can impact millions of lives",
     description: [
-      `I've been developing full-stack application since I was 10 years old. I didn't know what full-stack meant at that time because the term was not coined back then. I'm so out of content right now that I'm literally crying writing this text since lorem text is so 2012 now.`,
-      `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself and - for obvious reasons - if you knew bootstrap, you were cool.`,
-      `But now, I'm a legend. I've been coding in React, Angular, Vue, Svelte, Node.js, Express, Fastify, MongoDB, MySQL, Bootstrap, Tailwind, C, C++, C#, Rust, Haskell, Perl, PHP, Assembly, Logo and YouDontKnowShit programming language etc to name a few. Although I barely know the syntax (Psst, Stack overflow!), I consider myself a Ninja developer I'm laughing right now.`,
+      `It took typing a command on a Commodore 64 to spark a curiousity in how and why this works. I didn't know that the programming language was BASIC at the time but I knew it was powerful enough to do some interesting things. I lost a lot of game time from reading the documentation.`,
+      `After going through various Computer Science curriculums, nothing truly stuck until I randomly googled python because a friend had used it a little bit from another class. I was hooked when I saw DeepMind playing Go.`,
+      `Now, I enjoy hacking away in Python, React and Bash to name a few. Although I'm not proficient as I'd like to be, I love learning something new or better ways to do things.`,
     ],
-    currentProject: "Tailwind Master Kit",
-    currentProjectUrl: "https://tailwindmasterkit.com",
+    currentProject: "my frisbee game",
+    currentProjectUrl: "#",
   },
   experience: [
     {
-      title: "Software Developer",
-      company: "mroads",
-      year: "2021",
-      companyLink: "https://mroads.com",
-      desc: "Contributed to our flagship product - Panna - which is an AI powered candidate interviewing product.",
+      title: "Data Center Technician",
+      company: "nextSource",
+      year: "2022",
+      companyLink: "#",
+      desc: "Developed an interest towards cybersecurity",
     },
     {
-      title: "Founder and Developer",
-      company: "TailwindMasterKit",
-      year: "2021",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
-    },
-    {
-      title: "Founder and Developer",
-      company: "Algochurn",
-      year: "2021",
-      companyLink: "https://algochurn.com",
-      desc: "Your last moment revision friend right before a Tech coding interview. Practice problems and get hired at top Product based companies.",
-    },
-    {
-      title: "Internship",
-      company: "Intel Corporation",
+      title: "Full Stack Web Development",
+      company: "BloomTech",
       year: "2019",
-      companyLink: "https://intel.com",
-      desc: "Developed pothole detection system with OpenCV and computer vision, detects potholes on roads and informs the driver.",
+      companyLink: "#",
+      desc: "Took an opportunity to learn and grow as a developer",
     },
     {
-      title: "Graduation",
-      company: "UPES, Dehradun.",
-      year: "2019",
-      companyLink: "https://upes.co.in",
-      desc: "Major in Computer Science and Engineering with a CGPA of 7.0. Nobody asks this but it's okay.",
+      title: "Computer Science",
+      company: "Grantham University",
+      year: "2018",
+      companyLink: "#",
+      desc: "Found a passion of solving problems with code",
     },
     {
-      title: "High School",
-      company: "Delhi Public School, Jaipur.",
-      year: "2015",
-      companyLink: "https://upes.co.in",
-      desc: "Subjects being PCM - I barely survived with 93.6% marks aggregate. Flex fridays, fellas.",
+      title: "Research and Development",
+      company: "Asset Technologies",
+      year: "2018",
+      companyLink: "#",
+      desc: "Had a hand in the growth of this small company in the HVAC industry",
+    },
+    {
+      title: "Computer Engineering Technology",
+      company: "Sullivan College of Technology and Design",
+      year: "2010",
+      companyLink: "#",
+      desc: "Started diving into computer hardware, software and networking",
     },
   ],
   resumeUrl:
-    "https://drive.google.com/file/d/1xmE3BOmgM7TAOOgVp36xQIQvYDntDYoo/view?usp=sharing",
+    "#",
   socialLinks: {
-    instagram: "https://instagram.com/maninthere",
-    twitter: "https://twitter.com/mannupaaji",
-    linkedin: "https://linkedin.com/in/manuarora28",
-    github: "https://github.com/manuarora700",
+    instagram: "https://instagram.com/chheany_mok",
+    twitter: "https://twitter.com/haednodik",
+    linkedin: "https://linkedin.com/in/cmok4290",
+    github: "https://github.com/haednodik",
     facebook: "https://facebook.com/",
   },
+  techStack: [
+    {
+      name: "css",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
+    },
+    {
+      name: "html",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
+    },
+    {
+      name: "javascript",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
+    },
+    {
+      name: "react",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+    },
+    {
+      name: "nodejs",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+    },
+    {
+      name: "vue",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"
+    },
+    {
+      name: "python",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"
+    },
+    {
+      name: "django",
+      link: "https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"
+    },
+    {
+      name: "ruby",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"
+    },
+    {
+      name: "bash",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"
+    },
+    {
+      name: "java",
+      link: "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"
+    },
+    {
+      name: "aws",
+      link: "https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"
+    }
+  ]
 };
 
 export default userData;
