@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "haednodik",
   name: "Chheany Mok",
   designation: "Full-Stack Web Developer",
-  avatarUrl: "#",
+  avatarUrl: "avatar_1.jpg",
   email: "haednodik@gmail.com",
   phone: "502.297.1796",
   address: "Louisville, KY",
