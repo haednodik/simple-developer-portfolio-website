@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64372807-f00c-4b20-89a4-bcaec373ac22/deploy-status)](https://app.netlify.com/sites/superb-yeot-08ef6f/deploys)
 
-[Link](https://cmok.dev)
+[https://cmok.dev](https://cmok.dev)
 
 A simple and minimalistic website to showcase skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
