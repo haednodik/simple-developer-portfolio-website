@@ -2,7 +2,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64372807-f00c-4b20-89a4-bcaec373ac22/deploy-status)](https://app.netlify.com/sites/superb-yeot-08ef6f/deploys)
 
-Portfolio for developers is a simple and minimalistic website to showcase your skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
+[Link](https://cmok.dev)
+
+A simple and minimalistic website to showcase skills and projects as a developer. The design is inspired by [Kevin Clark](https://kevinclark.ca). The website is completely Open Source, you can use it for whatever purpose you want.
 
 # Features
 
@@ -19,8 +21,9 @@ The website is built with the following:
 - [Next.js](https://nextjs.org) for building React Components.
 - [tailwindcss](https://tailwindcss.com) for styling.
 - [React Rough Notation](https://roughnotation.com) for Hero section highlighting.
-- [Vercel](https://vercel.com) for deployments and CI/CD.
+- [Netlify](https://netlify.com) for deployments and CI/CD.
 
-# Support
+# Credits
 
-<a href="https://www.buymeacoffee.com/manuarora" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+- [Manu Arora](https://github.com/manuarora700)
+
