@@ -8,22 +8,22 @@ const userData = {
   address: "Louisville, KY",
   projects: [
     {
-      title: "Coming Soon",
-      link: "#",
+      title: "Next PDGA Stat App",
+      link: "https://timely-cajeta-889c76.netlify.app/",
       imgUrl: "#",
     },
 ,
   ],
   about: {
     title:
-      "I'm a software developer that loves building products and web applications that I hope can impact millions of lives",
+      "I'm a software developer that loves to hack away at stuff and hopefully one day it'll be useful to somebody.",
     description: [
       `It took typing a command on a Commodore 64 to spark a curiousity in how and why this works. I didn't know that the programming language was BASIC at the time but I knew it was powerful enough to do some interesting things. I lost a lot of game time from reading the documentation.`,
       `After going through various Computer Science curriculums, nothing truly stuck until I randomly googled python because a friend had used it a little bit from another class. I was hooked when I saw DeepMind playing Go.`,
       `Now, I enjoy hacking away in Python, React and Bash to name a few. Although I'm not proficient as I'd like to be, I love learning something new or better ways to do things.`,
     ],
     currentProject: "my frisbee game",
-    currentProjectUrl: "#",
+    currentProjectUrl: "https://github.com/haednodik/next-pdga-stat-app",
   },
   experience: [
     {
